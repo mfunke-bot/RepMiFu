@@ -25,3 +25,7 @@ Oster-/Pfingstsonntag (BB, HE), Tag der Befreiung (BE 2020, 2025), Fronleichnam,
 Mariä Himmelfahrt, Weltkindertag (TH ab 2019), Reformationstag (HB/HH/NI/SH ab 2018,
 bundesweit 2017), Allerheiligen, Buß- und Bettag (SN).
 Künftige Gesetzesänderungen sind nicht berücksichtigt.
+
+## App-Icon
+`Jahreskalender/Assets.xcassets/AppIcon.appiconset/AppIcon.png` (1024 × 1024, ohne Transparenz).
+Neu erzeugen: `python3 Tools/erzeuge_app_icon.py Jahreskalender/Assets.xcassets/AppIcon.appiconset/AppIcon.png` (benötigt Pillow).
